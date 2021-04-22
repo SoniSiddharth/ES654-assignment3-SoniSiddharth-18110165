@@ -1,1 +1,3 @@
-# ES654-assignment3-SoniSiddharth-18110165
+## Logistic Regression and Neural Networks
+
+-- Each question has its own readme file containing required plots and answers
