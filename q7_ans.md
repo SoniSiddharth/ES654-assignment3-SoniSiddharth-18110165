@@ -9,12 +9,13 @@
 
 ## Directory structure
 -> images<br />
-    -> train<br />
-        -> sloths<br />
-        -> snakes<br />
-    -> test<br />
-        -> sloths<br />
-        -> snakes<br />
+   -> train<br />
+      -> sloths<br />
+      -> snakes<br />
+   -> test<br />
+      -> sloths<br />
+      -> snakes<br />
+
 ## VGG1
 
 - Accuracy on VGG1 is 65.00 %
